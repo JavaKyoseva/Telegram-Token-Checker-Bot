@@ -37,10 +37,7 @@ pkg install python -y
 pkg install git curl nano -y
 
 # 4️⃣ Install Python libraries
-pip install pyTelegramBotAPI requests
-pip install aiohttp
-pip install python-telegram-bot
-pip install pillow
+pip install -r requirements.txt
 
 # 5️⃣ Clone the repository
 git clone https://github.com/JavaKyoseva/telegram-token-checker
