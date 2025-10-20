@@ -51,9 +51,9 @@ export BOT_TOKEN="<BOT_TOKEN>"
 ---
 
 ⚡ Run the Bot
-
+```bash
 python main.py
-
+```
 
 ---
 
