@@ -1,4 +1,5 @@
-pyTelegramBotAPI requests
+pyTelegramBotAPI
+requests
 aiohttp
 python-telegram-bot
 pillow
